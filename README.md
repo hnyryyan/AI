@@ -1,4 +1,4 @@
-# Tugas Praktikum AI Regresi dan Klasifikasi
+# Analisis Tugas Praktikum AI Regresi dan Klasifikasi
 
 Repositori ini berisi hasil praktikum penerapan AI menggunakan Python. Terdapat empat model utama yang dieksplorasi: Regresi Linear Sederhana, Regresi Linear Berganda, Regresi Logistik, dan K-Nearest Neighbors (KNN). 
 
